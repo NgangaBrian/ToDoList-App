@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/todolist"
+            android:icon="@drawable/ic_baseline_schedule_24"
+            android:title="To Do List"
+            />
+        <item android:id="@+id/notes"
+            android:icon="@drawable/ic_baseline_notes_24"
+            android:title="Notes"
+            />
+        <item android:id="@+id/schedule"
+            android:icon="@drawable/ic_baseline_schedule_24"
+            android:title="Schedule"
+            />
+        <item android:id="@+id/contact"
+            android:icon="@drawable/ic_baseline_contact_support_24"
+            android:title="Contact us"
+            />
+        <item android:id="@+id/share"
+            android:icon="@drawable/ic_baseline_share_24"
+            android:title="Share"
+            />
+"
+    </group>
+
+</menu>
